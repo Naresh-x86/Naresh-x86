@@ -1,7 +1,7 @@
 <h1 align="center">Hello there!! 👋</h1>
 <div>
 <h2> / about /</h2>
-  
+- This is a secondary account! Main account here: <a href=https://github.com/NonoNegative">NonoNegative</a>.
 - Primarily running on Python since 2022 :/
 - Formerly a game logic programmer (Lua), now I (occasionally) publish mods for the 3D-era Grand Theft Auto games.
 - デレステ enjoyer | Your local NaoP and SaeP; i also draw sometimes, check out my <a href="https://www.pixiv.net/en/users/69430164">Pixiv</a>!
