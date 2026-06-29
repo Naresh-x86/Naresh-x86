@@ -31,11 +31,6 @@
  
 </td>
 
-<td valign="top" width="89">
-<img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/left_banner.png#gh-dark-mode-only">
-<img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/left_banner.png#gh-light-mode-only">
-<hr>
-
 </td>
 
 </tr>
