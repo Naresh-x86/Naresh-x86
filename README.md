@@ -1,43 +1,98 @@
-<h1 align="center">Hello there!! 👋</h1>
-<div>
-<h2> / about /</h2>
+<!-- I should REALLY consider formatting all of this one day. But it just works 😭? Oh well. -->
+
+<table>
+<tr>
+
+
+<td valign="top">
+<img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/about_me.png#gh-dark-mode-only" alt="Header" height="57">
+<img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/about_me.png#gh-light-mode-only" alt="Header" height="57">
+<hr>
   
-- This is a secondary account! Main account at: <a href=https://github.com/NonoNegative>NonoNegative</a>.
-- Primarily running on Python since 2022 :/
-- Formerly a game logic programmer (Lua), now I (occasionally) publish mods for the 3D-era Grand Theft Auto games.
-- デレステ enjoyer | Your local NaoP and SaeP; i also draw sometimes, check out my <a href="https://www.pixiv.net/en/users/69430164">Pixiv</a>!
-- Repos won't be public until I'm satisfied with the amount of quality or progress!
+- I love everything about modern and retro computers- or any machine, really. I'm fascinated by how things work.
+- Began in 2019 programming video game logic in Lua, now I dip my toes into just about everything to see what sticks.
+- <b>Particular interests</b>: High compute tasks, Imperative programming, Computer Graphics, Design, UX & Web Optimization.
+- Repos won't be public until I'm satisfied with the amount of quality or progress! `[END]`?
+
+<img align="right" src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/graphic.png#gh-dark-mode-only" height="40">
+<img align="right" src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/graphic.png#gh-light-mode-only" height="40">
+<hr>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Naresh-x86/Skyline/main/output/contribs-dark.svg"
+  />
+  <img
+    alt="Isometric GitHub contribution chart"
+    src="https://raw.githubusercontent.com/Naresh-x86/Skyline/main/output/contribs-light.svg"
+    width="999"
+  />
+</picture>
+ 
+</td>
+
+<td valign="top" width="90">
+<img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/left_banner.png#gh-dark-mode-only">
+<img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/left_banner.png#gh-light-mode-only">
+<hr>
+
+</td>
+
+</tr>
+
+</table>
+
+<table>
+<td valign="top" width="160">
+<img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/right_banner.png#gh-dark-mode-only">
+<img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/right_banner.png#gh-light-mode-only">
+<hr> 
   
-<h2> / current skills / </h2>
+<td valign="top">
+  <p align="right">
+    <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/refs/heads/main/assets/dark/spanner.png#gh-dark-mode-only" width="100%">
+    <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/refs/heads/main/assets/light/spanner.png#gh-light-mode-only" width="100%">
+    <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/what_can_i_work_with.png#gh-dark-mode-only" height="65">
+    <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/what_can_i_work_with.png#gh-light-mode-only" height="65">
+     <hr>
+  </p>
+    <p align="center">
+  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/python.png#gh-dark-mode-only" height="168">
+  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/python.png#gh-light-mode-only" height="168">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/web.png#gh-dark-mode-only" height="168">
+  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/web.png#gh-light-mode-only" height="168">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/languages_other.png#gh-dark-mode-only" height="168">  
+  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/languages_other.png#gh-light-mode-only" height="168">  
+</p>
+<p align="center"><i>Okay I know that this is more of a tech stack but I've already made the left banner as we speak...</i></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/adobe.png#gh-dark-mode-only" height="146">
+  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/adobe.png#gh-light-mode-only" height="146">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/design_other.png#gh-dark-mode-only" height="146">
+  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/design_others.png#gh-light-mode-only" height="146">
+</p>
   
-- <h4> languages </h4>
-  <img src = "https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=F7DF1E" alt = "python" />
-  <img src = "https://img.shields.io/badge/Lua-323330?style=for-the-badge&logo=lua&logoColor=668FFF" alt = "lua" />
-  <img src = "https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" alt = "sqlite" />
-  
-  - <h5> currently learning </h5>
-    <img src = "https://img.shields.io/badge/C-323330?style=for-the-badge&logo=c&logoColor=0390FC" alt = "c" />
-     <img src = "https://img.shields.io/badge/java-323330?style=for-the-badge&logo=codeigniter&logoColor=BD0202" alt = "java" />
-     <img src = "https://img.shields.io/badge/tensorflow-323330?style=for-the-badge&logo=tensorflow&logoColor=FF6B1C" alt = "tensorflow" />
-  
-- <h4> designing tools </h4>
-  <img src = "https://img.shields.io/badge/adobe%20photoshop-323330.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=0299E3" alt = "photoshop" />
-  <img src = "https://img.shields.io/badge/adobe%20premiere%20pro-323330.svg?style=for-the-badge&logo=adobepremierepro&logoColor=06048C" alt = "premierepro" />
-  <img src = "https://img.shields.io/badge/adobe%20after%20effects-323330.svg?style=for-the-badge&logo=adobeaftereffects&logoColor="2F0080" alt = "aftereffects" />
-  <img src = "https://img.shields.io/badge/autodesk%203ds%20max-323330.svg?style=for-the-badge&logo=autodesk&logoColor=FF6619" alt = "3dsmax" />
-  
-</div>
-<h2> / stats and external / </h2>
-<div align="center">
-  <br>
-  <a href="https://github.com/NonoNegative">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naresh-x86&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-<br>
-<div align ="center"> 
-  <a href="https://x.com/nono_negative/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23333?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
- <a href="https://discordapp.com/users/538330535823540224/" target="_blank"><img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.gtainside.com/user/fishseek/"><img src="https://img.shields.io/badge/-ModPage-%23333?style=for-the-badge&logo=rockstargames&logoColor=white" target="_blank"></a>
-  <a href="https://pixiv.net/en/users/69430164/"><img src="https://img.shields.io/badge/-Pixiv-%23333?style=for-the-badge&logo=pixiv&logoColor=white" target="_blank"></a> 
-  <a href="https://steamcommunity.com/id/NonoNegative/"><img src="https://img.shields.io/badge/-Steam-%23333?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
-</div>
+</td>
+</table>
+
+<img src="https://raw.githubusercontent.com/readme-SVG/animated-line/main/STORAGE/line-svg-FFFFFF.svg#gh-dark-mode-only" width="100%">
+<img src="https://raw.githubusercontent.com/readme-SVG/animated-line/main/STORAGE/line-svg-000000.svg#gh-light-mode-only" width="100%">
+<a href="https://github.com/NonoNegative">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/refs/heads/main/assets/dark/footer.png">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/refs/heads/main/assets/light/footer.png">
+    <img
+      src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/footer.png"
+      width="100%"
+      alt="Footer">
+  </picture>
+</a>
+<img src="https://raw.githubusercontent.com/readme-SVG/animated-line/main/STORAGE/line-svg-FFFFFF.svg#gh-dark-mode-only" width="100%">
+<img src="https://raw.githubusercontent.com/readme-SVG/animated-line/main/STORAGE/line-svg-000000.svg#gh-light-mode-only" width="100%">
