@@ -38,10 +38,6 @@
 </table>
 
 <table>
-<td valign="top" width="145">
-<img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/right_banner.png#gh-dark-mode-only">
-<img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/right_banner.png#gh-light-mode-only">
-<hr> 
   
 <td valign="top">
   <p align="right">
@@ -52,22 +48,22 @@
      <hr>
   </p>
     <p align="center">
-  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/python.png#gh-dark-mode-only" height="136">
-  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/python.png#gh-light-mode-only" height="136">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/web.png#gh-dark-mode-only" height="136">
-  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/web.png#gh-light-mode-only" height="136">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/languages_other.png#gh-dark-mode-only" height="136">  
-  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/languages_other.png#gh-light-mode-only" height="136">  
+  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/python.png#gh-dark-mode-only" height="166">
+  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/python.png#gh-light-mode-only" height="166">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/web.png#gh-dark-mode-only" height="166">
+  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/web.png#gh-light-mode-only" height="166">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/languages_other.png#gh-dark-mode-only" height="166">  
+  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/languages_other.png#gh-light-mode-only" height="166">  
 </p>
-<p align="center"><i>Okay I know that this is more of a tech stack but I've already made the left banner...</i></p>
+<p align="center"><br><b><b></b><i>Tech Stack & Tools</i><b><br><br></p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/adobe.png#gh-dark-mode-only" height="122">
-  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/adobe.png#gh-light-mode-only" height="122">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/design_other.png#gh-dark-mode-only" height="122">
-  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/design_others.png#gh-light-mode-only" height="122">
+  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/adobe.png#gh-dark-mode-only" height="152">
+  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/adobe.png#gh-light-mode-only" height="152">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/design_other.png#gh-dark-mode-only" height="152">
+  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/design_others.png#gh-light-mode-only" height="152">
 </p>
   
 </td>
