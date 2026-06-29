@@ -73,8 +73,8 @@
 </td>
 </table>
 
-<img src="https://raw.githubusercontent.com/readme-SVG/animated-line/main/STORAGE/line-svg-FFFFFF.svg#gh-dark-mode-only" width="100%">
-<img src="https://raw.githubusercontent.com/readme-SVG/animated-line/main/STORAGE/line-svg-000000.svg#gh-light-mode-only" width="100%">
+<img src="https://raw.githubusercontent.com/readme-SVG/animated-line/main/STORAGE/line-svg-A0A0B0.svg#gh-dark-mode-only" width="100%">
+<img src="https://raw.githubusercontent.com/readme-SVG/animated-line/main/STORAGE/line-svg-A0A0B0.svg#gh-light-mode-only" width="100%">
 <a href="https://github.com/NonoNegative">
   <picture>
     <source
@@ -89,5 +89,5 @@
       alt="Footer">
   </picture>
 </a>
-<img src="https://raw.githubusercontent.com/readme-SVG/animated-line/main/STORAGE/line-svg-FFFFFF.svg#gh-dark-mode-only" width="100%">
-<img src="https://raw.githubusercontent.com/readme-SVG/animated-line/main/STORAGE/line-svg-000000.svg#gh-light-mode-only" width="100%">
+<img src="https://raw.githubusercontent.com/readme-SVG/animated-line/main/STORAGE/line-svg-A0A0B0.svg#gh-dark-mode-only" width="100%">
+<img src="https://raw.githubusercontent.com/readme-SVG/animated-line/main/STORAGE/line-svg-A0A0B0.svg#gh-light-mode-only" width="100%">
