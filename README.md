@@ -2,8 +2,6 @@
 
 <table>
 <tr>
-
-
 <td valign="top">
 <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/about_me.png#gh-dark-mode-only" alt="Header" height="57">
 <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/about_me.png#gh-light-mode-only" alt="Header" height="57">
@@ -28,17 +26,12 @@
     width="999"
   />
 </picture>
- 
 </td>
-
 </td>
-
 </tr>
-
+<!--
 </table>
-
 <table>
-  
 <td valign="top">
   <p align="right">
     <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/refs/heads/main/assets/dark/spanner.png#gh-dark-mode-only" width="100%">
@@ -65,10 +58,8 @@
   <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/design_other.png#gh-dark-mode-only" height="152">
   <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/design_others.png#gh-light-mode-only" height="152">
 </p>
-  
 </td>
 </table>
-
 <img src="https://raw.githubusercontent.com/readme-SVG/animated-line/main/STORAGE/line-svg-A0A0B0.svg#gh-dark-mode-only" width="100%">
 <img src="https://raw.githubusercontent.com/readme-SVG/animated-line/main/STORAGE/line-svg-A0A0B0.svg#gh-light-mode-only" width="100%">
 <a href="https://github.com/NonoNegative">
@@ -87,3 +78,4 @@
 </a>
 <img src="https://raw.githubusercontent.com/readme-SVG/animated-line/main/STORAGE/line-svg-A0A0B0.svg#gh-dark-mode-only" width="100%">
 <img src="https://raw.githubusercontent.com/readme-SVG/animated-line/main/STORAGE/line-svg-A0A0B0.svg#gh-light-mode-only" width="100%">
+-->
