@@ -1,4 +1,5 @@
 <!-- I should REALLY consider formatting all of this one day. But it just works 😭? Oh well. -->
+<!-- 24/08/2026 Put some stuff that were here originally on the back burner. Might come back to all that once I figure out how to work around the formatting constraints -->
 
 <table>
 <tr>
@@ -29,53 +30,3 @@
 </td>
 </td>
 </tr>
-<!--
-</table>
-<table>
-<td valign="top">
-  <p align="right">
-    <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/refs/heads/main/assets/dark/spanner.png#gh-dark-mode-only" width="100%">
-    <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/refs/heads/main/assets/light/spanner.png#gh-light-mode-only" width="100%">
-    <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/what_can_i_work_with.png#gh-dark-mode-only" height="65">
-    <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/what_can_i_work_with.png#gh-light-mode-only" height="65">
-     <hr>
-  </p>
-    <p align="center">
-  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/python.png#gh-dark-mode-only" height="166">
-  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/python.png#gh-light-mode-only" height="166">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/web.png#gh-dark-mode-only" height="166">
-  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/web.png#gh-light-mode-only" height="166">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/languages_other.png#gh-dark-mode-only" height="166">  
-  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/languages_other.png#gh-light-mode-only" height="166">  
-</p>
-<p align="center"><br><b><b></b><i>Tech Stack & Tools</i><b><br><br></p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/adobe.png#gh-dark-mode-only" height="152">
-  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/adobe.png#gh-light-mode-only" height="152">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/dark/design_other.png#gh-dark-mode-only" height="152">
-  <img src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/design_others.png#gh-light-mode-only" height="152">
-</p>
-</td>
-</table>
-<img src="https://raw.githubusercontent.com/readme-SVG/animated-line/main/STORAGE/line-svg-A0A0B0.svg#gh-dark-mode-only" width="100%">
-<img src="https://raw.githubusercontent.com/readme-SVG/animated-line/main/STORAGE/line-svg-A0A0B0.svg#gh-light-mode-only" width="100%">
-<a href="https://github.com/NonoNegative">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/refs/heads/main/assets/dark/footer.png">
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/refs/heads/main/assets/light/footer.png">
-    <img
-      src="https://raw.githubusercontent.com/Naresh-x86/Naresh-x86/main/assets/light/footer.png"
-      width="100%"
-      alt="Footer">
-  </picture>
-</a>
-<img src="https://raw.githubusercontent.com/readme-SVG/animated-line/main/STORAGE/line-svg-A0A0B0.svg#gh-dark-mode-only" width="100%">
-<img src="https://raw.githubusercontent.com/readme-SVG/animated-line/main/STORAGE/line-svg-A0A0B0.svg#gh-light-mode-only" width="100%">
--->
