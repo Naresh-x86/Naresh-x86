@@ -28,5 +28,4 @@
   />
 </picture>
 </td>
-</td>
 </tr>
